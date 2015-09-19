@@ -1,0 +1,24 @@
+body {
+	background-color: #334D5C;
+}
+
+riddle {
+	color: white;
+	font-size: 40px;
+
+}
+
+#riddlediv {
+	height:20vh;
+}
+
+.btn-xlarge {
+    padding: 18px 28px;
+    font-size: 22px;
+    line-height: normal;
+    -webkit-border-radius: 8px;
+       -moz-border-radius: 8px;
+            border-radius: 8px;
+}
+
+/*#2ecc71*/
