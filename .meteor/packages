@@ -10,3 +10,8 @@ insecure
 cfs:standard-packages
 mdg:camera
 twbs:bootstrap
+meteorhacks:npm
+
+
+npm-container
+jquery
